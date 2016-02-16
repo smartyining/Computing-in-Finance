@@ -1,0 +1,2 @@
+IBM,152.35,165.00,252,0.01,0.0001,Europe
+Option Price (Current Value of Expected Payout):  6.18 StockPath generated:  71120
